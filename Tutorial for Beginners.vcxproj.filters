@@ -30,5 +30,17 @@
     <ClCompile Include="src\Log.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="src\Constructors.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Inheritance.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\VirtualFunction.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Interfaces.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

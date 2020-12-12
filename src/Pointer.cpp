@@ -1,4 +1,4 @@
-//#include<iostream>
+//#include<iostream> //单指针、双指针、引用的使用说明
 //#include<cstring>
 //
 //void Increment(int* value)
@@ -15,7 +15,7 @@
 //{
 //	char* buffer = new char[8];
 //	memset(buffer, 0, 8);
-//	char** ptr = &buffer;
+//	char** ptr = &buffer; //ptr是指向存储着buffer内存地址的指针 --> buffer是指向char类型的字符数组的指针，存储着字符数组值所在的内存地址
 //
 //	delete[] buffer;
 //

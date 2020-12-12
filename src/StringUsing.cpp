@@ -1,4 +1,4 @@
-//#include<iostream>
+//#include<iostream> //字符串的使用方法讲解
 //#include<cstring>
 //using namespace std;
 //
